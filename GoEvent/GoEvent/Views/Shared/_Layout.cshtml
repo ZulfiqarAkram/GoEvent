@@ -1,0 +1,123 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    <link href="https://fonts.googleapis.com/css?family=Noto+Sans:400,700" rel="stylesheet">
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("GoEvent", "Index", "Home", null, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a href="@Url.Action("Create","Events")">
+                            <i class="glyphicon glyphicon-plus"></i>
+                            Add a Event
+                        </a>
+                    </li>
+                </ul>
+                @Html.Partial("_LoginPartial")
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Design & Developed By <a href="https://www.facebook.com/zulfiqar.akram366" target="_blank">Zulfiqar Akram</a></p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/lib")
+    @Scripts.Render("~/bundles/app")
+    @RenderSection("scripts", required: false)
+    
+<script type="text/x-template" id="notification-template">
+    <ul class="notifications">
+        <%
+            _.each(notifications,function(notification){
+                if(notification.type==1) {%>
+                    <li>
+                        <span class="notification-artistName"><%= notification.evento.artist.name %></span>
+                         has canceled the evento at <%= notification.evento.venue %> at <%= moment(notification.evento.dateTime).format("D MMM HH:mm") %>
+                    </li>                
+              <%}
+                else if(notification.type==2){
+
+                    var changes=[],originalValues=[],newValues=[];
+
+                    if(notification.originalVenue != notification.evento.venue){
+                        
+                        changes.push("Venue");
+                        originalValues.push(notification.originalVenue);
+                        newValues.push(notification.evento.venue);
+                    }
+
+                    if(notification.originalDateTime != notification.evento.dateTime){
+                        
+                        changes.push("date/time");
+                        originalValues.push(moment(notification.originalDateTime).format("D MMM HH:mm"));
+                        newValues.push(moment(notification.evento.dateTime).format("D MMM HH:mm"));
+        
+                    }%>
+                    <li>
+                        <span class="notification-artistName"><%= notification.evento.artist.name %></span> has changed the <%= changes.join(' and ') %> from <%= originalValues.join('/') %>  to <%= newValues.join('/') %>
+                    </li>
+            <% }
+        })
+        %>
+    </ul>
+</script>
+<script>
+    $(document)
+        .ready(function() {
+            $.getJSON("/api/notifications",
+                function (notification) {
+                    if (notification.length == 0)
+                        return;
+
+                    $(".js-notification-count")
+                        .text(notification.length)
+                        .removeClass("hide")
+                        .addClass("animated bounceInDown");
+
+                    $(".notifications")
+                        .popover({
+                            html: true,
+                            title: "Notifications",
+                            content: function() {
+                                var compiled = _.template($("#notification-template").html());
+                                return compiled({ notifications: notification });
+                            },
+                            placement: "bottom",
+                            template:
+                                '<div class="popover popover-notifications" role="tooltip"><div class="arrow"></div><h3 class="popover-title"></h3><div class="popover-content"></div></div>'
+                        })
+                        .on("shown.bs.popover",
+                            function() {
+                                $.post("/api/notifications/MarkAsRead")
+                                    .done(function() {
+                                        $(".js-notification-count")
+                                            .text("")
+                                            .addClass("hide");
+                                    });
+                            });
+
+                });
+        });
+</script>
+</body>
+</html>

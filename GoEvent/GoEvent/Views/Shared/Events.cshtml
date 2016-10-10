@@ -1,0 +1,70 @@
+﻿@using Microsoft.AspNet.Identity
+@model GoEvent.Core.ViewModels.EventViewModel
+@{
+    ViewBag.Title = "Home Page";
+}
+<h1>@Model.Heading</h1>
+<hr />
+@using (Html.BeginForm("Search", "Events"))
+{
+    <div class="form-group row">
+        <div id="searchEvents" class="input-group col-sm-12 col-md-5 col-lg-4">
+            @Html.TextBoxFor(s => s.SearchTerm, new { @class = "form-control", placeholder = "search by artist, genre and venue" })
+            <span class="input-group-addon">
+                <i class="glyphicon glyphicon-search"></i>
+            </span>
+        </div>
+    </div>
+}
+<div class="row">
+    <ul id="events" class="evento-container col-sm-12 col-md-5 col-lg-4">
+        @foreach (var evento in Model.upComingEvents)
+    {
+            <li>
+                <div class="date">
+                    <div class="month">
+                        @evento.DateTime.ToString("MMM")
+                    </div>
+                    <div class="day">
+                        @evento.DateTime.ToString("d ")
+                    </div>
+                </div>
+                <div class="details col-xs-9 col-sm-10  col-md-8 ">
+                    <span class="artist">
+                        <a href="@Url.Action("Details","Events",new {id=@evento.Id})">@evento.Artist.Name</a>
+                        @if (evento.IsCancel)
+                        {
+                            <span class="label label-warning">Canceled</span>
+                        }
+                        @if (Model.ShowActions)
+                        {
+                            <button data-artist-id="@evento.ArtistId"
+                                    class="btn @(Model.Followings.Contains(evento.ArtistId) ? "btn-info" : "btn-link")  btn-sm pull-right js-toggle-following">
+                                @(Model.Followings.Contains(evento.ArtistId) ? "Following" : "Follow")
+                            </button>
+                        }
+                    </span>
+                    <span class="genre">
+                        @evento.Genre.Name
+                    </span> <br />
+                    @if (Model.ShowActions && !evento.IsCancel)
+                    {
+                        <button data-evento-id="@evento.Id"
+                                class="btn @(Model.Attendences.Contains(evento.Id) ? "btn-info" : "btn-default") btn-sm pull-right js-toggle-attendance">
+                            @(Model.Attendences.Contains(evento.Id) ? "Going" : "Going?")
+                        </button>
+                    }
+                </div>
+            </li>
+    }
+    </ul>
+</div>
+@section scripts{
+    <script>
+        $(document)
+            .ready(function() {
+                EventsController.init("#events");
+                FolloweesController.init("#events");
+            });
+    </script>
+}

@@ -1,0 +1,252 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    /*max-width: 330px;*/
+}
+
+/* styles for validation helpers */
+.field-validation-error {
+    color: #b94a48;
+}
+
+.field-validation-valid {
+    display: none;
+}
+
+input.input-validation-error {
+    border: 1px solid #b94a48;
+}
+
+input[type="checkbox"].input-validation-error {
+    border: 0 none;
+}
+
+.validation-summary-errors {
+    color: #b94a48;
+}
+
+.validation-summary-valid {
+    display: none;
+}
+.field-validation-error {
+    color: red;
+    font-weight: bold;
+}
+input.input-validation-error {
+    border: 1px solid red;
+}
+
+/*---------Bootstrap Overrides--------*/
+
+@font-face {
+  font-family: 'Glyphicons Halflings';
+  src: url('fonts/glyphicons-halflings-regular.eot');
+  src: url('fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('fonts/glyphicons-halflings-regular.woff') format('woff'), url('fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('fonts/glyphicons-halflings-regular.svg#glyphicons-halflingsregular') format('svg');
+}
+
+.navbar-inverse {
+    background-color: #ff4700;
+    border-color: #ff4700;
+}
+.navbar-inverse .navbar-nav > li > a {
+    color: #fff;
+}
+.navbar-inverse .navbar-brand {
+    color: #fff;
+}
+
+.navbar-inverse .notifications {
+    position: relative;
+    margin-right: 10px;
+}
+    .navbar-inverse .notifications .badge {
+        position: absolute;
+        top: 10px;
+        right: -2px;
+        background-color: #bd3d0b;
+        background-color: rgba(189, 61, 11, 1);
+    }
+
+
+.navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
+     background-color: #bd3d0b;
+     background-color: rgba(189, 61, 11, 1);
+}
+
+.dropdown-menu {
+    box-shadow: none;
+    -webkit-box-shadow: none;
+}
+.navbar-inverse .navbar-nav > .dropdown > a .caret {
+    border-top-color: #fff;
+    border-bottom-color: #fff;
+}
+.navbar-brand {
+    font-weight: 700;
+}
+
+
+
+
+body {
+    font-size: 16px;
+    background-color: #e9ebee;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+  font-family: Noto Sans, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.form-group {
+    margin-bottom: 19px;
+}
+.form-control {
+    height: 44px;
+    font-size: 16px;
+    -ms-border-radius: 20px;
+    border-radius: 20px;
+}
+.form-control:focus {
+    border-color: #68abe4;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+
+}
+.btn {
+    /*font-size: 16px;
+    padding: 7px 15px;*/
+    -ms-border-radius: 30px;
+    border-radius: 30px
+}
+
+.popover {
+    box-shadow: none;
+    -webkit-box-shadow: none;
+}
+hr {
+    border-top: 1px solid #ff4700;
+    border-top: 1px solid rgba(255, 71, 0, 0.5);
+}
+
+/*--------Page-level styles-------*/
+/*#searchEvents {
+    width: 300px;
+}*/
+
+
+.evento-container {
+    list-style-type: none;
+    padding-top: 30px;
+}
+
+.evento-container > li {
+    position: relative;
+    margin-bottom: 25px;
+    border: 1px solid;
+    border-color: #e5e6e9 #dfe0e4 #d0d1d5;
+    -ms-border-radius: 3px;
+    border-radius: 3px;
+    background-color: #fff;
+}
+
+
+
+.evento-container > li .date {
+    background-color: #ff4700;
+    color: white;
+    width: 60px;
+    text-align: center;
+    -ms-border-radius: 4px;
+    border-radius: 4px;
+    margin: 15px;
+}
+
+    .evento-container > li .month {
+        text-transform: uppercase;
+        padding: 2px 6px;
+        font-size: 16px;
+        font-weight: bold;
+    }
+    .evento-container >li .day {
+        background-color: #e9ebee;
+        color: #333;
+        font-size: 26px;
+        padding: 4px 12px;
+        font-weight: bold;
+    }
+
+.evento-container > li .details {
+    position: absolute;
+    top: 0;
+    left: 80px;
+    margin: 15px;
+}
+    .evento-container >li .artist {
+        font-weight: bold;
+        display: block;
+    }
+    .evento-container >li .genre {
+        font-size: 14px;
+    }
+
+.evento-container > li .actions {
+    display: none;
+    font-size: 14px;
+}
+.evento-container > li:hover .actions {
+    display: block;
+}
+.popover-notifications .popover-content {
+    padding: 0;
+}
+
+.popover-notifications ul.notifications {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+}
+.popover-notifications ul.notifications > li {
+    border-bottom: solid 1px #ddd;
+    font-size: 14px;
+    padding: 7px;
+}
+
+.popover-notifications ul.notifications > li:last-child {
+    border-bottom: none;
+}
+
+.popover-notifications ul.notifications .notification-artistName {
+    font-weight: bold;
+}
+
+.follow-container > li {
+    list-style: none;
+}
+.follow-container > li > h3 {
+    display: inline-block;
+}
+
+

@@ -1,0 +1,171 @@
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\GigHub.dll.config
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\GigHub.dll
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\GigHub.pdb
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\Antlr3.Runtime.dll
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\AutoMapper.dll
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\EntityFramework.dll
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\EntityFramework.SqlServer.dll
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\Microsoft.Owin.dll
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\Microsoft.Owin.Security.dll
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\Newtonsoft.Json.dll
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\Ninject.dll
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\Ninject.Extensions.Conventions.dll
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\Ninject.Web.Common.dll
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\Ninject.Web.Mvc.dll
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\Ninject.Web.WebApi.dll
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\Owin.dll
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\System.Net.Http.Formatting.dll
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\System.Web.Helpers.dll
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\System.Web.Http.dll
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\System.Web.Http.WebHost.dll
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\System.Web.Mvc.dll
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\System.Web.Optimization.dll
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\System.Web.Razor.dll
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\System.Web.WebPages.dll
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\System.Web.WebPages.Razor.dll
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\WebActivatorEx.dll
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\WebGrease.dll
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\AutoMapper.xml
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\Ninject.xml
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\Ninject.Extensions.Conventions.xml
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\Ninject.Web.Common.xml
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\Ninject.Web.Mvc.xml
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\Ninject.Web.WebApi.xml
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\System.Net.Http.Formatting.xml
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\System.Web.Http.xml
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\System.Web.Http.WebHost.xml
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\System.Web.Helpers.xml
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\System.Web.Mvc.xml
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\System.Web.Optimization.xml
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\System.Web.Razor.xml
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\System.Web.WebPages.xml
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\System.Web.WebPages.Razor.xml
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\Newtonsoft.Json.xml
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\Antlr3.Runtime.pdb
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\EntityFramework.xml
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\EntityFramework.SqlServer.xml
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\Microsoft.Owin.xml
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\Microsoft.Owin.Security.xml
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\obj\Debug\GigHub.Migrations.InitialCreate.resources
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\obj\Debug\GigHub.Migrations.CreateGigTable.resources
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\obj\Debug\GigHub.Migrations.OverrideConventionsForGigsAndGenres.resources
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\obj\Debug\GigHub.Migrations.PopulateGenresTable.resources
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\obj\Debug\GigHub.Migrations.AddForeignKeyPropertiesToGig.resources
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\obj\Debug\GigHub.Migrations.AddNamePropertyToApplicationUser.resources
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\obj\Debug\GigHub.Migrations.AddAttendanceTable.resources
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\obj\Debug\GigHub.Migrations.AddFollowingTable.resources
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\obj\Debug\GigHub.Migrations.AddIsCancelPropertyInGig.resources
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\obj\Debug\GigHub.Migrations.AddNotificationTable.resources
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\obj\Debug\GigHub.csproj.GenerateResource.Cache
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\obj\Debug\GigHub.dll
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\obj\Debug\GigHub.pdb
+C:\Users\Zulfiqar AKram\Documents\Visual Studio 2013\Projects\GigHub\GigHub\obj\Debug\GigHub.csprojResolveAssemblyReference.cache
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\GigHub.dll.config
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\GigHub.dll
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\GigHub.pdb
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\Antlr3.Runtime.dll
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\AutoMapper.dll
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\EntityFramework.dll
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\EntityFramework.SqlServer.dll
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\Microsoft.Owin.dll
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\Microsoft.Owin.Security.dll
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\Newtonsoft.Json.dll
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\Ninject.dll
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\Ninject.Extensions.Conventions.dll
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\Ninject.Web.Common.dll
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\Ninject.Web.Mvc.dll
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\Ninject.Web.WebApi.dll
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\Owin.dll
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\System.Net.Http.Formatting.dll
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\System.Web.Helpers.dll
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\System.Web.Http.dll
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\System.Web.Http.WebHost.dll
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\System.Web.Mvc.dll
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\System.Web.Optimization.dll
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\System.Web.Razor.dll
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\System.Web.WebPages.dll
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\System.Web.WebPages.Razor.dll
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\WebActivatorEx.dll
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\WebGrease.dll
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\AutoMapper.xml
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\Ninject.xml
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\Ninject.Extensions.Conventions.xml
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\Ninject.Web.Common.xml
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\Ninject.Web.Mvc.xml
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\Ninject.Web.WebApi.xml
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\System.Net.Http.Formatting.xml
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\System.Web.Http.xml
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\System.Web.Http.WebHost.xml
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\System.Web.Helpers.xml
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\System.Web.Mvc.xml
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\System.Web.Optimization.xml
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\System.Web.Razor.xml
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\System.Web.WebPages.xml
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\System.Web.WebPages.Razor.xml
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\Newtonsoft.Json.xml
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\Antlr3.Runtime.pdb
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\EntityFramework.xml
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\EntityFramework.SqlServer.xml
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\Microsoft.Owin.xml
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\Microsoft.Owin.Security.xml
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\obj\Debug\GigHub.csprojResolveAssemblyReference.cache
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\obj\Debug\GigHub.csproj.GenerateResource.Cache
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\obj\Debug\GigHub.dll
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\obj\Debug\GigHub.pdb
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\obj\Debug\GoEvent.Migrations.InitialCreate.resources
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\obj\Debug\GoEvent.Migrations.CreateGigTable.resources
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\obj\Debug\GoEvent.Migrations.OverrideConventionsForGigsAndGenres.resources
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\obj\Debug\GoEvent.Migrations.PopulateGenresTable.resources
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\obj\Debug\GoEvent.Migrations.AddForeignKeyPropertiesToGig.resources
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\obj\Debug\GoEvent.Migrations.AddNamePropertyToApplicationUser.resources
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\obj\Debug\GoEvent.Migrations.AddAttendanceTable.resources
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\obj\Debug\GoEvent.Migrations.AddFollowingTable.resources
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\obj\Debug\GoEvent.Migrations.AddIsCancelPropertyInGig.resources
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\obj\Debug\GoEvent.Migrations.AddNotificationTable.resources
+C:\Users\Zulfiqar AKram\Desktop\GigHub\GigHub\obj\Debug\GoEvent.Migrations.RenameGigsToEvents.resources
